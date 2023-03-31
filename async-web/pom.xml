@@ -1,0 +1,13 @@
+<project>
+  <!-- omitted -->
+  <dependencies>
+　　<!-- (1) -->
+    <dependency>
+        <groupId>${project.groupId}</groupId>
+        <artifactId>asyncbatch</artifactId>
+        <version>${project.version}</version>
+    </dependency>
+    <!-- omitted -->
+  </dependencies>
+  <!-- omitted -->
+</project>

@@ -1,0 +1,14 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.terasoluna.batch.sample</groupId> <!-- (2) -->
+  <artifactId>asyncbatch</artifactId>
+  <version>1.0-SNAPSHOT</version> <!-- (2) -->
+  <!-- (1) -->
+  <parent>
+    <groupId>org.terasoluna.batch.sample</groupId>
+    <artifactId>asyncapp</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <relativePath>../pom.xml</relativePath>
+  </parent>
+  <!-- omitted -->
+</project>

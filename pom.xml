@@ -170,4 +170,12 @@
         </profile>
     </profiles>
 
+    <modules>
+      <module>asyncapp-domain</module>
+      <module>asyncapp-env</module>
+      <module>asyncapp-initdb</module>
+      <module>asyncapp-web</module>
+      <module>asyncapp-selenium</module>
+      <module>asyncbatch</module> <!-- (1) -->
+    </modules>
 </project>
